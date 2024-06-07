@@ -1,0 +1,25 @@
+Field Dimensions (Width, Height)
+9
+9
+Robot Info (PosX, PosY, speed, turnAngle, lookAngle)
+start
+282
+284
+1
+45
+132
+=
+178
+224
+1
+45
+330
+-
+Obstacle Info (PosX, PosY)
+start
+200
+100
+=
+80
+80
+-

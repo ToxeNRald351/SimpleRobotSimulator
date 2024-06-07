@@ -1,0 +1,22 @@
+.button {
+    //-fx-effect: dropshadow(three-pass-box, black, 10, 0, 0, 0);
+}
+
+.obstacle-button {
+    -fx-shape:  "M 350 300 L 350 250 L 400 200 L 450 250 L 450 300 L 350 300 ";
+    -fx-background-color: rgb(255, 0, 0);
+    //-fx-border-color: black;
+    //-fx-border-width: 1;
+}
+
+.robot-button {
+    -fx-shape: "M 450 300 A 50 50 0 1 1 400 300 L 400 350 L 450 350 L 450 300 ";
+    -fx-background-color: rgb(79, 40, 255);
+}
+
+.common-obj-button {
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+}
